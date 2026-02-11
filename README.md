@@ -1,7 +1,9 @@
 <h1>Ciao...</h1>
 <img src = "https://holopin.me/jhaji01"></img>
 
-<img>https://leetcode.com/medal/?showImg=0&id=7550208&isLevel=false</img>
+<!-- <a href="https://leetcode.com/u/Killu_Coder/" target="_blank">
+    <img align="center" src="[https://assets.leetcode.com/static_assets/others/2550.gif](https://leetcode.com/medal/?showImg=0&id=7550208&isLevel=false)" alt="LeetCode profile" height="200" width="200" />
+  </a> -->
 
 
 # About Me:
