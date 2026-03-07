@@ -28,8 +28,6 @@ Fun fact: I learn best by breaking things and fixing them better the next time.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-Bharadwaj&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Gautam-Bharadwaj&icon=0&color=0)](https://visitcount.itsvg.in)
