@@ -1,4 +1,4 @@
-# Ciao, I'm Gautam!
+# Ciao, I'm Gautam Jha!
 
 <p align="left">
   <img src="https://holopin.me/jhaji01" alt="Holopin Badges" />
