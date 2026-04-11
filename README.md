@@ -39,17 +39,7 @@ I’m a passionate Full-Stack Developer who enjoys building real-world products,
 
 ---
 
-### GitHub Stats:
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gautam-Bharadwaj&show_icons=true&theme=vision-friendly-dark&hide_border=false" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-Bharadwaj&theme=vision-friendly-dark&layout=compact&hide_border=false" />
-</p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gautam-Bharadwaj&theme=vision-friendly-dark" />
-</p>
-
----
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Gautam-Bharadwaj&icon=0&color=0" alt="Visitor Count" />
